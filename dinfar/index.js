@@ -7,7 +7,7 @@ function setup(){
     speedx = 5
     x = .5*windowWidth
     y = .5*windowHeight
-    diameter = 30
+    diameter = 60
     r = random(0, 255)
     g = random(0, 255)
     b = random(0, 255)
